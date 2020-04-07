@@ -1,6 +1,6 @@
 {
     "name": "tinymeng/swoole",
-    "description": "laravel-swoole",
+    "description": "swoole",
     "type": "library",
     "keywords": [
         "tinymeng", "swoole","laravel","php","swoole"
