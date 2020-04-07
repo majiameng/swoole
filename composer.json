@@ -1,9 +1,9 @@
 {
-    "name": "tinymeng/laravel-swoole",
+    "name": "tinymeng/swoole",
     "description": "laravel-swoole",
     "type": "library",
     "keywords": [
-        "tinymeng", "laravel-swoole","laravel","php","swoole"
+        "tinymeng", "swoole","laravel","php","swoole"
     ],
     "license": "MIT",
     "authors": [
