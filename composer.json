@@ -1,0 +1,25 @@
+{
+    "name": "tinymeng/swoole",
+    "description": "laravel-swoole",
+    "type": "library",
+    "keywords": [
+        "tinymeng", "swoole","laravel","php","swoole"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JiaMeng Ma",
+            "email": "666@majiameng.com",
+            "homepage": "http://www.majiameng.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "tinymeng/tools": "^1.0.~"
+    },
+    "autoload": {
+        "psr-4": {
+            "tinymeng\\swoole\\": ""
+        }
+    }
+}
